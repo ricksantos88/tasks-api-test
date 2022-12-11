@@ -4,3 +4,4 @@
 /target/maven-archiver/
 /target/test-classes/
 /target/tasks-api-test-1.0-SNAPSHOT.jar
+/.idea/
